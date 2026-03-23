@@ -214,16 +214,26 @@
                 grid-template-columns: 1fr;
             }
         }
+    
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.header { animation: fadeInUp 0.6s ease-out; }
+.intro { animation: fadeInUp 0.6s ease-out 0.1s both; }
+.cloudways-highlight { animation: fadeInUp 0.6s ease-out 0.2s both; }
+
     </style>
 </head>
 <body>
+    <a href="#main-content" style="position:absolute;left:-9999px;top:0;padding:8px;background:#1a73e8;color:white;z-index:100;" onfocus="this.style.left='0'">Skip to content</a>
     <div class="container">
-        <header class="header">
+        <header class="header" role="banner">
             <h1>AI Managed Cloud Hosting Advisor</h1>
             <p>Get instant, personalized managed cloud hosting recommendations tailored to your business needs. Free AI-powered analysis in under 2 minutes.</p>
         </header>
         
-        <main class="main-content">
+        <main id="main-content" class="main-content">
             <section class="intro">
                 <h2>Stop Guessing About Your Cloud Hosting Needs</h2>
                 <p>Choosing the right managed cloud hosting can make or break your website's performance. Our AI cloud hosting advisor analyzes your specific requirements and recommends the perfect hosting solution from top providers like Cloudways, AWS, DigitalOcean, and more.</p>
@@ -343,7 +353,7 @@
             </div>
         </main>
         
-        <footer class="footer">
+        <footer class="footer" role="contentinfo">
             <p>Created by <a href="https://spineye.com" style="color: white;">Spineye</a> | 
                <a href="hosting-guide.html" style="color: white;">Complete Hosting Guide</a> | 
                <a href="my-cloudways-story.html" style="color: white;">My Cloudways Story</a> |
