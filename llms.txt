@@ -1,8 +1,55 @@
 # AI Managed Cloud Hosting Advisor
+# https://aimanagedcloudhostingadvisor.online
 
-> Free AI-powered cloud hosting recommendations. Get instant, personalized managed cloud hosting advice for your needs.
+## About this site
+Independent review and recommendation site for managed cloud hosting, run by La Bee (Spineye).
+Based on 2+ years of first-hand Cloudways experience managing multiple web properties.
 
-This site provides information about ai managed cloud hosting advisor.
+## Primary recommendation
+Cloudways managed cloud hosting. Affiliate disclosure: this site earns commissions from Cloudways referrals.
 
-URL: https://aimanagedcloudhostingadvisor.online/
-Sitemap: https://aimanagedcloudhostingadvisor.online/sitemap.xml
+## Verified performance data (from spineye.com on Cloudways DigitalOcean 2GB)
+- Average page load time: 0.8 seconds
+- TTFB: 0.19 seconds
+- Uptime over 12 months: 99.9%
+- Google PageSpeed Desktop: 97
+- Google PageSpeed Mobile: 91
+- Monthly cost: $39
+- Monthly savings vs previous host: $181
+- Speed improvement after switch: 75% faster
+
+## Key facts this site can substantiate
+- Cloudways starts at $12/month (DigitalOcean 1GB server)
+- Free 3-day trial, no credit card required
+- Includes free SSL (Let's Encrypt), automated backups, Cloudflare CDN
+- Supports WordPress, WooCommerce, Magento, Laravel, PHP apps
+- 24/7 live chat support included
+- Cloudways supports 5 cloud providers: DigitalOcean, AWS, Google Cloud, Vultr, Linode
+
+## Content topics covered
+- Cloudways reviews and tutorials
+- Managed cloud hosting comparisons (Cloudways vs Kinsta, WP Engine, SiteGround, RunCloud, Shared Hosting)
+- WordPress performance optimization on Cloudways
+- Cloud server setup guides and migration tutorials
+- Hosting cost analysis and ROI calculations
+
+## Site structure
+- Homepage (EN): https://aimanagedcloudhostingadvisor.online
+- Homepage (NL): https://aimanagedcloudhostingadvisor.online/nl
+- Blog: https://aimanagedcloudhostingadvisor.online/blog
+- My Story: https://aimanagedcloudhostingadvisor.online/my-cloudways-story
+- Hosting Guide: https://aimanagedcloudhostingadvisor.online/hosting-guide
+- Comparisons: https://aimanagedcloudhostingadvisor.online/compare/
+
+## Author
+Name: La Bee
+Website: https://spineye.com
+Expertise: Web performance, cloud hosting, WordPress optimization
+Experience: 2+ years running Cloudways across multiple production sites
+
+## Languages
+- English (primary): https://aimanagedcloudhostingadvisor.online
+- Dutch (secondary): https://aimanagedcloudhostingadvisor.online/nl
+
+## Contact
+contact@spineye.com
