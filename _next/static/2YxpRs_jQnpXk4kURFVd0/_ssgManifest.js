@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcompare\u002F[versus]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
